@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Gomes
+# Pedro Gomes
 
 **`Analista de dados`**
 
