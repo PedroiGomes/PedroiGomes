@@ -5,7 +5,7 @@
 Há 10 anos venho construindo minha carreira em Análise de Dados, unindo minha formação em Administração à especialização em Gestão Financeira. Nesse tempo, desenvolvi domínio em Excel avançado, Power BI e SQL, que uso para extrair, organizar e transformar dados em relatórios e dashboards que ajudam gestores a decidir com mais segurança. O que mais me motiva no meu trabalho é pegar uma planilha cheia de números e transformá-la em uma história que faça sentido para o negócio.
 
 <p align="left">
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/PedroIGomes?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
